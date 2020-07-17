@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Visit my [personal website](http://tiny.cc/anuj42) to learn more!
+
 <!--
 **a-nooj/a-nooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
