@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Visit my [personal website](http://tiny.cc/anuj42) to learn more!
+<!--Visit my [personal website](http://tiny.cc/anuj42) to learn more!-->
+Visit my [LinkedIn](linkedin.com/in/anujpasricha) to learn more or get in touch via [email](mailto:anuj.pasricha@colorado.edu)!
 
 <!--
 **a-nooj/a-nooj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
